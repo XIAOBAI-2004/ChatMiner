@@ -1,7 +1,9 @@
 # ChatMiner：挖矿你的微信聊天记录🔍💬（更新ing）
 一键解锁聊天秘密：词云图、情感分析、回复速度、时间分布——程序员表白神器！
 
-##### 灵感来源： https://github.com/saturn-opposition/wechat_analysis
+##### 灵感来源：
+* [saturn-opposition](https://github.com/saturn-opposition/wechat_analysis)
+* [LC004](https://github.com/LC044/AnnualReport)
 
 ## 🤔 为什么你的聊天记录比代码更有趣？
 
