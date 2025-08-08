@@ -1,5 +1,11 @@
 # ChatMiner：挖矿你的微信聊天记录🔍💬（更新ing）
-一键解锁聊天秘密：词云图、情感分析、回复速度、时间分布——程序员表白神器！
+你分析过那么多数据，
+
+却从未读懂过自己。
+
+——现在开始，还不晚
+
+### 💌 解锁你的聊天秘密：词云图、情感分析、回复速度、时间分布——程序员的告白提升神器！
 
 ##### 灵感来源：
 * [saturn-opposition](https://github.com/saturn-opposition/wechat_analysis)
@@ -18,12 +24,23 @@ ChatMiner 就是你的数字考古学家！🔨
 
 ————用Python把微信聊天记录变成数据金矿，告别瞎猜，用数据证明——你才是群聊大龙王！
 
-## 🚀 功能清单：聊天记录の72变
+## ⚡️ 开挖指南：
+
+#### STEP 1： 导出你的「数字矿脉」
+
+下载MemoTrace，参考：https://github.com/shixiaogaoya/MemoTrace
+
+#### STEP 2: 数据清理
+
+#### STEP 3: 启动挖掘程序！
+
+
+## 🚀 聊天记录の72变：
 
 * 可选字体：黑体、华文行楷
 * 
 
-## 有问题反馈
+## 👏 欢迎贡献你的「挖矿心得」
 Suggestions are welcomed：cherry2cherry123123@gmail.com
 
 
